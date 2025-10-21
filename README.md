@@ -6,7 +6,7 @@ The site is hosted on **GitHub Pages** and serves as a quick portfolio/demo proj
 ## Features
 - One-page responsive layout
 - About and contact sections
-- GitHub and personal website links
+- GitHub and email links
 - Easy to extend with new projects and highlights
 
 ## Live Demo
