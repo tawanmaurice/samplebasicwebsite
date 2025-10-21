@@ -14,3 +14,8 @@ The site is published here:
 [https://tawanmaurice.github.io/samplebasicwebsite/](https://tawanmaurice.github.io/samplebasicwebsite/)
 
 ## Project Structure
+samplebasicwebsite/
+│
+├── index.html # Main HTML file
+├── .nojekyll # Ensures GitHub Pages serves raw HTML/CSS without Jekyll
+└── README.md # Project documentation
